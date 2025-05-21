@@ -1,10 +1,10 @@
 //-------------------[ BOT SETTINGS ]------------------// 
 
 // @project_name : KANGO-XMD 
-// @author : Hector 
-// @telegram : http://t.me/official_kango
+// @author : Jaydip
+// @telegram : http://t.me/jaydip
 // @github : OfficialKango
-// @whatsapp : +233509977126
+// @whatsapp : +918855843841
 
 //----------------------[ KANGO-XMD ]----------------------//
 
